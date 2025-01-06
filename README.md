@@ -1,4 +1,5 @@
 Weather Application 🌦️
+
 A React-based weather application that allows users to search for current weather conditions and a 5-day forecast for any city. The app also fetches weather details based on the user's geolocation.
 
 Features

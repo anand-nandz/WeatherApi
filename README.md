@@ -15,6 +15,3 @@ Tech Stack:
 - Frontend: React.js, TypeScript, TailwindCSS
 - APIs: OpenWeatherMap API
 - Icons: React-icons
-
-Expanding ESLint Configuration:
-To ensure code quality, you can enable type-aware lint rules and update ESLint configurations to include stricter checks and plugins like `eslint-plugin-react`.
